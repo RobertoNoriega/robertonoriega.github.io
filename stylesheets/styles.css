@@ -29,3 +29,19 @@ h3, h4, h5, h6 {
 .wrapper {
 	text-align: center;
 }
+
+img {
+	padding: 20px;
+}
+
+.social-menu > img {
+	margin: 0;
+	padding: 0;
+	border-radius: 50%;
+	overflow: hidden;
+}
+
+footer {
+	text-align: center;
+	vertical-align: bottom;
+}
